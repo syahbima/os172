@@ -20,3 +20,5 @@ drwxr-xr-x  2 aldo.bima StafCS 4096 Sep  5 13:55 week09
 drwxr-xr-x  2 aldo.bima StafCS 4096 Sep  5 13:56 week10
 drwxr-xr-x  2 aldo.bima StafCS 4096 Sep  5 14:00 xtra
 /home/fasilkom/mahasiswa/a/aldo.bima/os172/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 05 Sep 2017 at 15:01:26
