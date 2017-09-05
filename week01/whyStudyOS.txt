@@ -1,1 +1,3 @@
 #syahbima
+
+karena os dapat menghubungkan antara hardware dengan software, sehingga memungkinkan software dapat berjalan di atas hardware dengan adanya software. maka dari itu sebagai mahasiswa ilmu komputer tentunya harus dapat mempelajari hal tersbut.
