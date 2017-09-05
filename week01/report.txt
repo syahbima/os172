@@ -1,0 +1,2 @@
+#Aldo Bima Syahputra
+di lab week 1 ini saya belajar cara membuat direktori dan file di local server, kemudian saya push ke dalam akun github saya. saya juga mmebuat file dummy.kemudian saya membuat file report dan juga file whybelajar os, kemudian saya menghapus file dummy yang tadi sudah di buat. saya juga mengedit sebuah file di github kemudian saya pull kembali ke local server
