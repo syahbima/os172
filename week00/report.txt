@@ -1,0 +1,2 @@
+#Aldo Bima Syahputra
+pada lab week0 saya membuat akun git, kemudian didaftarkan ke badak dengan mengisi gform. kemudian login ke badak lewat putty.
