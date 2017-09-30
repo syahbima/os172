@@ -1,0 +1,5 @@
+w04-170926-16-LR-About: Advanced Unix IO Programming, From: Lecturer
+w04-170926-17-LR-About: Advanced Unix IO Programming, From: Lecturer
+w04-170926-18-DS-discussing further about flags and mode with my friend
+w04-170927-16-PS-doing Lab week04
+w04-170929-09-PS-doing Lab week0
