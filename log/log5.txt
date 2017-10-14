@@ -1,0 +1,4 @@
+w05-171005-16-LR-About: translating virtual memory to physical memory, From: Lecturer
+w05-171010-16-LR-About: two level adrressing, from: Lecturer
+w05-171011-19-DS-discussing further about translating virtual mem to physical mem
+w05-171012-19-PS-doing Lab week05
