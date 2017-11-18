@@ -1,0 +1,3 @@
+w08-171114-16-LR-About: Scheduling from lecturer
+w08-171116-16-LR-About: Doing Scheduling exercise, zoom in and zoom out
+w08-171117-20-PS-Doing Lab08
